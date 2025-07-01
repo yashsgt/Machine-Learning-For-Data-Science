@@ -1,0 +1,6 @@
+for i in range(4):
+    print(i)
+
+
+    # Range of any loops run from 0 to n-1 when starting point is not given.....
+    # Also no matter what is the starting point(0 or 1 or anyother number), it will go upto n-1.....
